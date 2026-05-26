@@ -1,0 +1,6 @@
+{
+  "name": "Income Tax e-Filing Portal",
+  "description": "Interactive replica of the Income Tax department e-Proceedings notice viewer and response submission system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
